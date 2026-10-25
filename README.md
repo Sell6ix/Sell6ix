@@ -1,4 +1,4 @@
-# Hi, I'm Ivan 👋
+# Hi, I'm Ivan
 
 Full Stack Developer (Angular · Node.js · NestJS · TypeScript) based in Ramat Gan, Israel.
 2+ years building and maintaining production web apps in a team of 6 developers (Agile/Scrum),
